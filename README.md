@@ -1325,7 +1325,7 @@ Uma pasta compactada (`.zip`) contendo `index.html`, `style.css` e a pasta `img/
 | Layout responsivo funcionando no celular | 0,25 |
 | Código validado no W3C, indentado e comentado | 1,0 |
 | Código do Desafio Extra (as três partes), indentado, validado e comentado | 1,0 |
-| **Total** | **3,0** |
+| **Total** | **5,15** |
 
 
 ## 9. Referências
